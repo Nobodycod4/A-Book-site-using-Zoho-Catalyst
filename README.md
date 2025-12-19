@@ -156,11 +156,6 @@ AUTH_SIGNUP_URL: Signup endpoint
 3. **Mobile Landscape** - Best viewed in portrait mode
 4. **Duplicate Ratings** - From console ratings can be dupilcated
 
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Turn.js library for flipbook functionality
