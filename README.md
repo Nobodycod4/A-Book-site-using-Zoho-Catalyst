@@ -1,4 +1,4 @@
-# 📖 Novel November - Interactive Web Novel Platform
+# 📖 Interactive Web Book Platform
 
 A full-stack interactive novel reading experience built with modern web technologies, featuring user authentication, real-time ratings, chapter discussions, and an immersive flipbook interface.
 
