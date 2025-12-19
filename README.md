@@ -156,7 +156,7 @@ AUTH_SIGNUP_URL: Signup endpoint
 ## 🙏 Acknowledgments
 
 - Turn.js library for flipbook functionality
-- Zoho Catalyst for backend infrastructure
+
 
 ## 📞 Support
 
