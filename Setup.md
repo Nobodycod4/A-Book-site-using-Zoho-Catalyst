@@ -24,13 +24,13 @@ Verify installation:
 catalyst --version
 ```
 
-## Step 2: Clone & Setup Project
+## Step 2: Download the files do not clone
+This Project is not yet clone friendly - feel free to get in touch to make.
+
+Have the index.html, mobile.html, main.css and main.js in same folder
 
 ```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/novel-november.git
-cd novel-november
-
+#cd into the directory
 # Install dependencies
 npm install
 ```
@@ -45,9 +45,13 @@ catalyst init
 ```
 
 Follow the prompts:
-- Project Name: `novel-november`
+- Project Name: `<proj name>`
 - Project Type: `Full Stack Application`
 - Choose your data center
+
+Now you can expect some new folders poped-up
+cd into function/<projectname>
+now replace the index.js file there or copy paste it.
 
 ### 3.2 Create Required Tables
 
