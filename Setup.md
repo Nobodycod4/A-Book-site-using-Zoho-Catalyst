@@ -27,7 +27,7 @@ catalyst --version
 ## Step 2: Download the files do not clone
 This Project is not yet clone friendly - feel free to get in touch to make.
 
-Have the index.html, mobile.html, main.css and main.js in same folder
+Have the index.html, mobile.html, main.css, main.js, mobile.css, config.js and bookContent.js in same folder
 
 ```bash
 #cd into the directory
