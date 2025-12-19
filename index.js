@@ -1200,7 +1200,7 @@ app.get("/", (req, res) => {
     endpoints: {
       auth: "GET /auth/check, GET /auth/logout",
       user: "GET /getUserRatings",
-      signup: "POST /signup - Subscribe with @zohocorp.com email",
+      signup: "POST /signup - Subscribe with @xyz.com email",
       addRating: "POST /addRating - Submit chapter rating (one per user per chapter)",
       getRatings: "GET /getRatings - Get chapter ratings",
       health: "GET /health - Health check"
