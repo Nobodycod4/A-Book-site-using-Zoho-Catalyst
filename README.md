@@ -148,10 +148,9 @@ AUTH_SIGNUP_URL: Signup endpoint
 
 ## 🐛 Known Issues & Limitations
 
-1. **Browser Storage** - localStorage not supported in artifacts (by design)
-2. **Image Loading** - Requires stable internet connection
-3. **Mobile Landscape** - Best viewed in portrait mode
-4. **Duplicate Ratings** - From console ratings can be dupilcated
+1. **Image Loading** - Requires stable internet connection
+2. **Mobile Landscape** - Best viewed in portrait mode
+3. **Duplicate Ratings** - From console ratings can be dupilcated
 
 ## 🙏 Acknowledgments
 
@@ -163,7 +162,7 @@ AUTH_SIGNUP_URL: Signup endpoint
 For issues and questions:
 - Create an issue on GitHub
 
-## 🗺️ Roadmap
+## 🗺️ Roadmap (-Abandoned-)
 
 - [ ] PDF export functionality
 - [ ] Bookmarking system
@@ -175,9 +174,5 @@ For issues and questions:
 - [ ] System sends Cliq DMs to all subscribed users
 - [ ] Admin Panel
 
-## 📊 Project Stats
-
-- **Full-stack implementation** with authentication
-- **Real-time features** for ratings and comments
 
 Created by Aathithyan Vandhiyan [AKA Aathithyan V L]
